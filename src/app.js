@@ -3,3 +3,8 @@ import App from '@src/App.vue'
 new Vue({
     render: h => h(App)
 }).$mount('#app');
+
+//testing for class property support
+const cls = class  {
+    name = 'hi';
+};
