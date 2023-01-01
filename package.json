@@ -18,9 +18,9 @@
     "@babel/plugin-proposal-class-properties": "^7.8.3",
     "cross-env": "^7.0.2",
     "laravel-mix": "^5.0.4",
-    "resolve-url-loader": "^3.1.0",
+    "resolve-url-loader": "^5.0.0",
     "sass": "^1.26.5",
-    "sass-loader": "^8.0.2",
+    "sass-loader": "^13.2.0",
     "vue-template-compiler": "^2.6.11"
   },
   "dependencies": {
